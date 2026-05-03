@@ -74,7 +74,6 @@ class TestUrbanRoutes:
     def test_order_2_ice_creams(self):
         numbers_of_ice_creams = 2
         for count in range(numbers_of_ice_creams):
-        # Adicionar em S8
          print("função criada para adicionar sorvete")
          pass
 
